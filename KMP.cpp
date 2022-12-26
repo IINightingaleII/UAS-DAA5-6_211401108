@@ -55,7 +55,7 @@ void KMP(string pattern,string text){
 
 int main()
 {
-    string text = "RIFASOLASIDOABCDL";
+    string text = "RIFASOLASIDOABCDLINMKOPIUYTHGJKLNFGHRTESXZKREWQZXC";
     string pattern = "ABCD";
     KMP(pattern, text);
     
